@@ -2,7 +2,7 @@
 ## Labels module callled that will be used for naming and tags.
 ##-----------------------------------------------------------------------------
 module "labels" {
-  source      = "git@github.com:pankajyadavdevops/terraform-azure-labels.git"
+  source      = "git@github.com:pankajyadavdevops/terraform-azure-labels.git?ref=v1.0.2"
   version     = "1.0.2"
   name        = var.name
   environment = var.environment
