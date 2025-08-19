@@ -112,13 +112,13 @@ module "subnet" {
 You can customize the input variables according to your specific requirements.
 
 ## Examples
-For detailed examples on how to use this module, please refer to the [example](https://github.com/pankajyadavdevops/terraform-azure-subnet/blob/master/_example) directory within this repository.
+For detailed examples on how to use this module, please refer to the [example](https://github.com/pankajyadavdevops/terraform-azure-subnet/blob/main/_example) directory within this repository.
 
 ## Authors
 Your Name Replace **MIT** and **pankajyadavdevops** with the appropriate license and your information. Feel free to expand this README with additional details or usage instructions as needed for your specific use case.
 
 ## License
-This project is licensed under the **MIT** License - see the [LICENSE](https://github.com/pankajyadavdevops/terraform-azure-subnet/blob/master/LICENSE) file for details.
+This project is licensed under the **MIT** License - see the [LICENSE](https://github.com/pankajyadavdevops/terraform-azure-subnet/blob/main/LICENSE) file for details.
 
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
